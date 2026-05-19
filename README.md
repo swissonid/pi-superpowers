@@ -5,7 +5,7 @@ A [pi](https://github.com/badlogic/pi) package that bundles **pi-subagents** (or
 ## Install
 
 ```bash
-pi install git:github.com/patricemuller/pi-superpowers
+pi install git:github.com/swissonid/pi-superpowers
 ```
 
 ## What You Get
